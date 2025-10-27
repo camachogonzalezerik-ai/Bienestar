@@ -1,0 +1,5 @@
+{
+  "name": "Collage de Bienestar",
+  "description": "Una aplicación web que crea un collage visual sobre el tema de la salud como bienestar, extrayendo ideas clave de un texto proporcionado y generando imágenes relevantes con la API de Gemini.",
+  "requestFramePermissions": []
+}
